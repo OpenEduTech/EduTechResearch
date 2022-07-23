@@ -1,0 +1,60 @@
+name: Paper Recommendation
+description: Recommend to add a paper to the paper list.
+title: "[Paper Recommendation] "
+labels: "研究分享：推荐"
+body:
+- type: textarea
+  attributes:
+    label: Title
+    description: |
+      Title of the paper.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Link
+    description: |
+      Source link of this paper(e.g. Google Scholar)
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Year
+    description: |
+      Year of the paper published.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Conference or Journal
+    description: |
+      The conference or journal of the paper published.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Rank
+    description: |
+      Rank(Generally CCF) of the conference or journal of the paper published.
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Keywords
+    description: |
+       Keywords for this paper.     
+  validations:
+    required: false
+    
+- type: textarea
+  attributes:
+    label: Abstract
+    description: |
+       Abstract of this paper.
+  validations:
+    required: false
