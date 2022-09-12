@@ -1,3 +1,10 @@
+# EduTechResearch - Industrial reports or Trends list
+| ID   | Title                                                        | Publication                                                  | Year | Rank  | Keywords                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----- | :----------------------------------------------------------- |
+| 0001 | THE STATE OF CD: THE EVOLUTION OF SOFTWARE DELIVERY PERFORMANCE | Continuous Delivery Foundation (CDF)    | 2022 | no| Industrial reports                  |
+| 0002 | 中国 DevOps 现状调查报告 | 云计算产业联盟                              | 2022 | no | 行业调查报告                  |
+| 0003 | Google白皮书:DevOps转型的投资回报率(The ROI of DevOps Transformation) | Google                             | 2022 | no | 行业调查报告                  |
+
 # EduTechResearch - Paper List
 
 | ID   | Title                                                        | Publication                                                  | Year | Rank  | Keywords                                                     |
