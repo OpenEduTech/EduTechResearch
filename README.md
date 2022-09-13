@@ -21,12 +21,16 @@
 
 ## 2️⃣ **研究背景（Research framework）**
  **DevOps**
- 
-![devOps](https://user-images.githubusercontent.com/31360564/189895595-80e5797b-1db2-451b-9323-23807512300a.JPG)
+ <div align=center>
+ <img src="https://user-images.githubusercontent.com/31360564/189895595-80e5797b-1db2-451b-9323-23807512300a.JPG", width="700px">
+ </div>
+
 
 **实际需求与痛点**
 
-![需求痛点](https://user-images.githubusercontent.com/31360564/189895675-136a5279-11b4-4bdc-81d9-fb432574b7b2.JPG)
+ <div align=center>
+ <img src="https://user-images.githubusercontent.com/31360564/189895675-136a5279-11b4-4bdc-81d9-fb432574b7b2.JPG", width="700px">
+ </div>
 
 ## 3️⃣ **研究框架（Research framework）**
 
