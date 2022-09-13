@@ -34,7 +34,7 @@
 ## 4️⃣ **协作工具（Collaberative tools）**
 
 > 高效的研究离不开工具的支持，结合 GitHub 整合一些日常使用的协同工具，常见的场景包括：
-> - **时间管理**：
+> - **时间管理**：https://user-images.githubusercontent.com/31360564/189890405-0753cda7-7264-440d-b333-a52c9a753299.jpg
 > - **知识可视化工具**：https://markmap.js.org/
 > - **协同写作**：https://www.overleaf.com/
 > - **品牌宣传**：https://www.getrevue.co/profile/x-lab
