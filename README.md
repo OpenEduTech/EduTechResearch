@@ -19,7 +19,11 @@
 >
 > - **写论文**：开放式论文写作与发表循环 [[**进入论文写作✒️**]( "论文写作")]
 
-## 2️⃣ **研究背景（Research framework）**
+## 2️⃣ **研究目标（Research goal）**
+
+**工程与研究相结合、研究来自工程 、研究反哺工程**
+
+## 2️⃣ **研究背景（Research background）**
  **DevOps**
  <div align=center>
  <img src="https://user-images.githubusercontent.com/31360564/189895595-80e5797b-1db2-451b-9323-23807512300a.JPG", width="700px">
