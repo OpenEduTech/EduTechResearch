@@ -19,10 +19,19 @@
 >
 > - **写论文**：开放式论文写作与发表循环 [[**进入论文写作✒️**]( "论文写作")]
 
-## 2️⃣ **研究框架（Research framework）**
+## 2️⃣ **研究背景（Research framework）**
+ **DevOps**
+ 
+![devOps](https://user-images.githubusercontent.com/31360564/189895595-80e5797b-1db2-451b-9323-23807512300a.JPG)
+
+**实际需求与痛点**
+
+![需求痛点](https://user-images.githubusercontent.com/31360564/189895675-136a5279-11b4-4bdc-81d9-fb432574b7b2.JPG)
+
+## 3️⃣ **研究框架（Research framework）**
 
 
-## 3️⃣ **研究方法与工具（Research method）**
+## 4️⃣ **研究方法与工具（Research method）**
 
   **工程与研究相结合、研究来自工程 、研究反哺工程**
 
@@ -31,7 +40,7 @@
  ![研发一体化landscape-OPEN](https://user-images.githubusercontent.com/31360564/189612763-c05617f8-19e9-478a-8f9f-b710ba76800c.jpg)
 
 
-## 4️⃣ **协作工具（Collaberative tools）**
+## 5️⃣ **协作工具（Collaberative tools）**
 
 > 高效的研究离不开工具的支持，结合 GitHub 整合一些日常使用的协同工具，常见的场景包括：
 > - **时间管理**：https://user-images.githubusercontent.com/31360564/189890405-0753cda7-7264-440d-b333-a52c9a753299.jpg
@@ -39,10 +48,10 @@
 > - **协同写作**：https://www.overleaf.com/
 > - **品牌宣传**：https://www.getrevue.co/profile/x-lab
 
-## 5️⃣ **特色研究（Featured projects）**
+## 6️⃣ **特色研究（Featured projects）**
 
 
-## 6️⃣ **研究成果（Achievement）**
+## 7️⃣ **研究成果（Achievement）**
 
 > **成果列表**：
 
