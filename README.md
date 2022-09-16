@@ -43,7 +43,7 @@
 
   **工程与研究相结合、研究来自工程 、研究反哺工程**
   
-  水杉DevOps研讨班
+  水杉DevOps研讨班 https://github.com/OpenEduTech/EduTechResearch/blob/main/agenda/%F0%9F%8D%812022-2023-Autumn-%E6%B0%B4%E6%9D%89-DevOps-Seminar.md
 
   基于DevOps研发一体化交付流程全景图
  ![研发一体化landscape-OPEN](https://user-images.githubusercontent.com/31360564/189612763-c05617f8-19e9-478a-8f9f-b710ba76800c.jpg)
