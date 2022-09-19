@@ -32,6 +32,4 @@
 
 ****
 
-* **论文分享流程**：基于DevOps研发交付行业研究与论文分享阅读与分享流程 [[**进入论文阅读👓**]()]
-* **论文库**：基于DevOps研发交付行业研究与论文分享文列表 [[**查看论文列表📚**](https://github.com/OpenEduTech/EduTechResearch/blob/main/PaperList.md)]
-* 🍀 2022（春）基于DevOps研发交付行业研究与论文分享分享组会安排 [[**查看**](https://github.com/OpenEduTech/EduTechResearch/issues/6)]
+
