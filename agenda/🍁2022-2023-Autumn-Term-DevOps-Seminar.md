@@ -12,7 +12,7 @@
 | :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :----------------------------------------------------------: |
 |  01   | 09-13 |张琰彬  && 李锦路、司琦  | 基于DevOps研发交付一体化介绍与研讨会安排介绍 &&     最新国内外行业报告阅读                               |  司琦  |   [#6](https://github.com/OpenEduTech/EduTechResearch/issues/6)   |
 |  02   | 09-20 | 陈可璇 | A Study on the Interplay between Pull Request Review and Continuous Integration Builds | 司琦 | [#10](https://github.com/OpenEduTech/EduTechResearch/issues/10) |
-|  03   | 09-27 |  |  | 司琦  | |
+|  03   | 09-27 | 李锦路 | Effects of Adopting Code Review Bots on PullRequests to OSS Projects | 司琦  | |
 |  04   |  |  |    |  |  |
 | 05 | | | | |  |
 | 06 | | | | |  |
