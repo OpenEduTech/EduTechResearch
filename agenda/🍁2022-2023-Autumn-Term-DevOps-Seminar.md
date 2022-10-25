@@ -15,7 +15,7 @@
 |  03   | 09-27 | 李锦路 | Effects of Adopting Code Review Bots on PullRequests to OSS Projects | 司琦  | [#12](https://github.com/OpenEduTech/EduTechResearch/issues/12) |
 |  04   | 10-11 | 司琦 | Adaptive and Efficient Resource Allocation in Cloud Datacenters Using Actor-Critic Deep Reinforcement Learning | 司琦 | [#15](https://github.com/OpenEduTech/EduTechResearch/issues/15) |
 |  05   | 10-18 | 陈可璇 | Identifying Customer Needs from User-Generated Content | 司琦 | [#19](https://github.com/OpenEduTech/EduTechResearch/issues/19) |
-| 06 | | | | |  |
+| 06 | 10-25 | 李锦路 | Survey_of_State-of-the-art_Log-based_Failure_Diagnosis | 司琦 | https://github.com/OpenEduTech/EduTechResearch/issues/23 |
 | 07 | | | | |  |
 | 08 | | | | |  |
 | 09 | | | | |  |
