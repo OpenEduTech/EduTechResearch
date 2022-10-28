@@ -14,7 +14,7 @@
 |  01   | 09-23 |张琰彬&&李倩（Zadig 创始人） | 2022-2023(秋） 水杉DevOps研讨班安排 5min &&    漫谈软件工程与DevOps                            |  李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/6 | [B站链接](https://www.bilibili.com/video/BV1QY4y1N7PC/?spm_id_from=333.999.0.0)|  
 |  02   | 09-30 | 李锦路/司琦  | DevOps的整体介绍 | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/18 | [B站链接](https://www.bilibili.com/video/BV1ve411L7hy/?spm_id_from=333.999.0.0&vd_source=6c5ad27413b620c3b977f82a66892897) |
 |  03   | 10-21 | 章津楠（建木项目发起人） |  DevOps开源项目实践分享——建木 | 李锦路  | https://github.com/OpenEduTech/EduTechResearch/issues/22 | [B站链接](https://www.bilibili.com/video/BV1TG411L7d1) |
-|  04   | 10-28 | Answer 专家 |  待定 |  |  | |
+|  04   | 10-28 | Answer 专家 |  开源问答社区软件 Answer 介绍 |  | https://github.com/OpenEduTech/EduTechResearch/issues/24 |https://www.bilibili.com/video/BV1rP4y1S7em/?spm_id_from=333.999.0.0 |
 |  05   | 11-04 | 张海立 |  浅谈 FaaS 与 DevOps  | 李锦路 |  | |
 |  06   | 11-11 | 司琦 |  水杉CI/CD 实现  | 李锦路 |  | |
 | 07 | 11-18 | 史继林 | 静态代码扫描与安全测试 | 李锦路 | | |
