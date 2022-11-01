@@ -8,15 +8,15 @@
 ****
 
 
-| 周数📆 | 日期🕣 | 分享🙋  | 内容📒                                                        | 主持💂‍♂️ |                          关联 Issue                          |
-| :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :----------------------------------------------------------: |
-|  01   | 09-13 |张琰彬  && 李锦路、司琦  | 基于DevOps研发交付一体化介绍与研讨会安排介绍 &&     最新国内外行业报告阅读                               |  司琦  |   [#6](https://github.com/OpenEduTech/EduTechResearch/issues/6)   |
-|  02   | 09-20 | 陈可璇 | A Study on the Interplay between Pull Request Review and Continuous Integration Builds | 司琦 | [#10](https://github.com/OpenEduTech/EduTechResearch/issues/10) |
-|  03   | 09-27 | 李锦路 | Effects of Adopting Code Review Bots on PullRequests to OSS Projects | 司琦  | [#12](https://github.com/OpenEduTech/EduTechResearch/issues/12) |
-|  04   | 10-11 | 司琦 | Adaptive and Efficient Resource Allocation in Cloud Datacenters Using Actor-Critic Deep Reinforcement Learning | 司琦 | [#15](https://github.com/OpenEduTech/EduTechResearch/issues/15) |
-|  05   | 10-18 | 陈可璇 | Identifying Customer Needs from User-Generated Content | 司琦 | [#19](https://github.com/OpenEduTech/EduTechResearch/issues/19) |
-| 06 | 10-25 | 李锦路 | Survey_of_State-of-the-art_Log-based_Failure_Diagnosis | 李锦路 | [#23](https://github.com/OpenEduTech/EduTechResearch/issues/23) |
-| 07 | 11-01 | 司琦 | Adaptive Resource Effificient Microservice Deployment in Cloud-Edge Continuum | 李锦路 | [#25](https://github.com/OpenEduTech/EduTechResearch/issues/25) |
+| 周数📆 | 日期🕣 | 分享🙋  | 内容📒                                                        | 主持💂‍♂️ |                          关联 Issue                          |视频链接|
+| :---: | :---: | :----: | ------------------------------------------------------------ | :----: | :----------------------------------------------------------: |:----------------------------------------------------------: |
+|  01   | 09-13 |张琰彬  && 李锦路、司琦  | 基于DevOps研发交付一体化介绍与研讨会安排介绍 &&     最新国内外行业报告阅读                               |  司琦  |   [#6](https://github.com/OpenEduTech/EduTechResearch/issues/6)   |[B站链接](https://www.bilibili.com/video/BV1NN4y1K7pf/?spm_id_from=333.999.0.0&vd_source=c10ce7a3332dfa311a1577aba0513eaa)|
+|  02   | 09-20 | 陈可璇 | A Study on the Interplay between Pull Request Review and Continuous Integration Builds | 司琦 | [#10](https://github.com/OpenEduTech/EduTechResearch/issues/10) |(未上传)
+|  03   | 09-27 | 李锦路 | Effects of Adopting Code Review Bots on PullRequests to OSS Projects | 司琦  | [#12](https://github.com/OpenEduTech/EduTechResearch/issues/12) |[B站链接](https://www.bilibili.com/video/BV1re4y1b7QN/?spm_id_from=333.999.0.0&vd_source=c368dcb385c714435c11261915d03c9d)|
+|  04   | 10-11 | 司琦 | Adaptive and Efficient Resource Allocation in Cloud Datacenters Using Actor-Critic Deep Reinforcement Learning | 司琦 | [#15](https://github.com/OpenEduTech/EduTechResearch/issues/15) |[B站链接](https://www.bilibili.com/video/BV1Kd4y1q7gj/?spm_id_from=333.999.0.0&vd_source=c10ce7a3332dfa311a1577aba0513eaa)|
+|  05   | 10-18 | 陈可璇 | Identifying Customer Needs from User-Generated Content | 司琦 | [#19](https://github.com/OpenEduTech/EduTechResearch/issues/19) |[B站链接](https://www.bilibili.com/video/BV1qN4y1w7QX/?spm_id_from=333.999.0.0)|
+| 06 | 10-25 | 李锦路 | Survey_of_State-of-the-art_Log-based_Failure_Diagnosis | 李锦路 | [#23](https://github.com/OpenEduTech/EduTechResearch/issues/23) |[B站链接](https://www.bilibili.com/video/BV1n84y1B761/)|
+| 07 | 11-01 | 司琦 | Adaptive Resource Effificient Microservice Deployment in Cloud-Edge Continuum | 李锦路 | [#25](https://github.com/OpenEduTech/EduTechResearch/issues/25) |[B站链接](https://www.bilibili.com/video/BV1Md4y1w738/)|
 | 08 | | |  | |  |
 | 09 | | | | |  |
 | 10 | | | | |  |
