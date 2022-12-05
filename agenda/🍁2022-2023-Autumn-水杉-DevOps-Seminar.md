@@ -18,8 +18,8 @@
 |  05   | 11-04 | 张海立 驭势科技UISEE◎云平台研发总监 |  浅谈 FaaS 与 DevOps  | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/27 |[B站链接](https://www.bilibili.com/video/BV1R24y1f7fC/?spm_id_from=333.999.0.0) |
 |  06   | 11-11 | 陈烨/司琦 |  DevOps与水杉CI/CD 实现  | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/29 |[B站链接](https://www.bilibili.com/video/BV1qP4y1y7bY/) |
 | 07 | 11-18 | Metersphere 刘树能 | Metersphere 持续测试分享与交流 | 李锦路 | | |
-| 08 | 11-25 | 史继林 | 静态代码扫描与安全测试 | 李锦路 | | |
-| 09| 12-02| 皮雯旭 | 单元测试 | 李锦路 |  |[B站链接](https://www.bilibili.com/video/BV1TG411T7Cd/)|
+| 08 | 11-25 | xx | xx | 李锦路 | | |
+| 09| 12-02|史继林 | 单元测试 | 李锦路 |  |[B站链接](https://www.bilibili.com/video/BV1TG411T7Cd/)|
 | 10 | 12-09| 黄温瑞/王婕 | 前端UI测试 | 李锦路 |  | |
 | 11 | 12-16 |暂定 | 接口API测试 |李锦路 |  | |
 | 12 | 12-23| 李昱鑫| 压力测试 |李锦路 |  | |
