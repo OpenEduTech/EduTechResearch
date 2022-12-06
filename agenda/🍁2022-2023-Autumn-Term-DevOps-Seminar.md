@@ -20,7 +20,7 @@
 | 08 | 11-08 | 陈可璇 | Deep Feature-Based Text Clustering and its Explanation | 陈可璇 | [#28](https://github.com/OpenEduTech/EduTechResearch/issues/28) |[B站链接](https://www.bilibili.com/video/BV1p14y1p7ke/?spm_id_from=333.999.0.0)
 | 09 | 11-14 | 李锦路 | DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/31 |[B站链接](https://www.bilibili.com/video/BV1ie4y1s7i2/)
 | 10 | 11-29|皮雯旭 | Unit Test Case Generation with Transformers and Focal Context| 皮雯旭| https://github.com/OpenEduTech/EduTechResearch/issues/33 |[B站链接](https://www.bilibili.com/video/BV1WG4y1971N/)
-| 11 | 12-06 | 陈可璇 | Classifying User Requirements from Online Feedback in Small Dataset Environments using Deep Learning | 陈可璇 | https://github.com/OpenEduTech/EduTechResearch/issues/36 |
+| 11 | 12-06 | 陈可璇 | Classifying User Requirements from Online Feedback in Small Dataset Environments using Deep Learning | 陈可璇 | https://github.com/OpenEduTech/EduTechResearch/issues/36 |[B站链接](https://www.bilibili.com/video/BV1SP4y1Q7iW/)
 | 12 | | | | |  |
 | 13 | | | | |  |
 | 14 | | | | |  |
