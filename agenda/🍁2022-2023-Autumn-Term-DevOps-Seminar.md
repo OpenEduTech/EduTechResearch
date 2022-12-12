@@ -21,7 +21,7 @@
 | 09 | 11-14 | 李锦路 | DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/31 |[B站链接](https://www.bilibili.com/video/BV1ie4y1s7i2/)
 | 10 | 11-29|皮雯旭 | Unit Test Case Generation with Transformers and Focal Context| 皮雯旭| https://github.com/OpenEduTech/EduTechResearch/issues/33 |[B站链接](https://www.bilibili.com/video/BV1WG4y1971N/)
 | 11 | 12-06 | 陈可璇 | Classifying User Requirements from Online Feedback in Small Dataset Environments using Deep Learning | 陈可璇 | https://github.com/OpenEduTech/EduTechResearch/issues/36 |[B站链接](https://www.bilibili.com/video/BV1SP4y1Q7iW/)
-| 12 | | | | |  |
+| 12 | 12-12 | 李锦路 | LogGAN: a Log-level Generative Adversarial Network for Anomaly Detection using Permutation Event Modeling | 李锦路 | https://github.com/OpenEduTech/EduTechResearch/issues/37 |
 | 13 | | | | |  |
 | 14 | | | | |  |
 | 15 | | | | |  |
