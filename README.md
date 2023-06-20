@@ -15,7 +15,7 @@
 
 > - **选论文**：行业报告与论文列表 [[**查看论文列表📚**](https://github.com/OpenEduTech/EduTechResearch/blob/main/PaperList.md)]
 > - **读论文**：开放式论文阅读与分享流程 [[**进入论文阅读👓**]( https://github.com/OpenEduTech/EduTechResearch/blob/main/PaperRecFlowChart.md)]
-> - **研论文**：开放式讨论与阅读安排 [[**查看最新论文研讨时刻表参与研讨📚**](https://github.com/OpenEduTech/EduTechResearch/blob/main/agenda/%F0%9F%8D%812022-2023-Autumn-Term-DevOps-Seminar.md)]
+> - **研论文**：开放式讨论与阅读安排 [[**查看最新论文研讨时刻表参与研讨📚**](https://github.com/OpenEduTech/EduTechResearch/blob/main/agenda/%F0%9F%8C%BF2023-Spring-Term-DevOps-Seminar.md)]
 >
 > - **写论文**：开放式论文写作与发表循环 [[**进入论文写作✒️**]( "论文写作")]
 
